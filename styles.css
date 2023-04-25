@@ -24,7 +24,7 @@ p{
 
 .header{
     border: 1px black solid;
-    padding-top: 30px;
+    margin-top: -50px;
 }
 
 .header ul{
@@ -325,7 +325,7 @@ footer .side_margin{
     margin: 80px 250px;
 }
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 768px) {
     body{
         margin: 50px;
     }
@@ -390,4 +390,24 @@ footer .side_margin{
         padding: 5px 30px;
     }
 
+}
+
+@media screen and (max-width: 1300px) {
+    body{
+        margin: 80px;
+    }
+}
+
+@media screen and (max-width:  480px) {
+    body{
+        margin: 30px;
+    }
+}
+
+
+@media screen and (min-width: 1300px) {
+    .header{
+        padding-top: 30px;
+        margin-top: 10px;
+    }
 }
