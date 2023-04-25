@@ -407,6 +407,10 @@ footer .side_margin{
     .hero_top{
         gap: 10px;
     }
+
+    footer .side_margin{
+        margin: 80px 30px;
+    }
 }
 
 
