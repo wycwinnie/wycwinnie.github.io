@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "AT-Wayfinding",
+			"path": "."
+		},
+		{
+			"name": "Images",
+			"path": "../../../Desktop/bike-nav-app-winnie-dev-workspace/bike-nav-app-winnie-dev-workspace/Images"
+		},
+		{
+			"name": "Icons",
+			"path": "../../../Desktop/bike-nav-app-winnie-dev-workspace/bike-nav-app-winnie-dev-workspace/Icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AT-Wayfinding",
+		"liveServer.settings.port": 5501
+	}
+}
